@@ -1,0 +1,14 @@
+C:\Study 103 группа\blokcxema.zadacha№6.sem2\bin\Debug\blokcxema.zadacha№6.sem2.exe.config
+C:\Study 103 группа\blokcxema.zadacha№6.sem2\bin\Debug\blokcxema.zadacha№6.sem2.exe
+C:\Study 103 группа\blokcxema.zadacha№6.sem2\bin\Debug\blokcxema.zadacha№6.sem2.pdb
+C:\Study 103 группа\blokcxema.zadacha№6.sem2\obj\Debug\blokcxema.zadacha№6.sem2.csproj.AssemblyReference.cache
+C:\Study 103 группа\blokcxema.zadacha№6.sem2\obj\Debug\blokcxema.zadacha№6.sem2.csproj.CoreCompileInputs.cache
+C:\Study 103 группа\blokcxema.zadacha№6.sem2\obj\Debug\blokcxema.zadacha№6.sem2.exe
+C:\Study 103 группа\blokcxema.zadacha№6.sem2\obj\Debug\blokcxema.zadacha№6.sem2.pdb
+C:\Study 103 группа\Markov\blokcxema.zadacha№6.sem2\bin\Debug\blokcxema.zadacha№6.sem2.exe.config
+C:\Study 103 группа\Markov\blokcxema.zadacha№6.sem2\bin\Debug\blokcxema.zadacha№6.sem2.exe
+C:\Study 103 группа\Markov\blokcxema.zadacha№6.sem2\bin\Debug\blokcxema.zadacha№6.sem2.pdb
+C:\Study 103 группа\Markov\blokcxema.zadacha№6.sem2\obj\Debug\blokcxema.zadacha№6.sem2.csproj.AssemblyReference.cache
+C:\Study 103 группа\Markov\blokcxema.zadacha№6.sem2\obj\Debug\blokcxema.zadacha№6.sem2.csproj.CoreCompileInputs.cache
+C:\Study 103 группа\Markov\blokcxema.zadacha№6.sem2\obj\Debug\blokcxema.zadacha№6.sem2.exe
+C:\Study 103 группа\Markov\blokcxema.zadacha№6.sem2\obj\Debug\blokcxema.zadacha№6.sem2.pdb
